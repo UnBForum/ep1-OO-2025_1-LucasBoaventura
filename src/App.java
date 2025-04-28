@@ -1,5 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        int a = 6, b = 7;
+        int soma = a + b;
+        System.out.println(soma);
     }
 }
